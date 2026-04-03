@@ -1,3 +1,14 @@
-# chap3lab-task4-starter
+# Task 4: Brute-forcing a stay-logged-in cookie
 
-Define the type of each cracker whether it is dictionary or rainbow
+This lab allows users to stay logged in even after they close their browser session. The cookie used to provide this functionality is vulnerable to brute-forcing.
+
+Instructions:
+
+1. Explore how the app's session manaegment works by using the provided user account.
+2. Complete the bf_script to brute-force the victims's cookie to gain access to his /acount page.
+
+You can use application by:
+
+- Launch the provided **app.exe**
+- Using render-hosted app: [https://auth-lab9.onrender.com](https://auth-lab9.onrender.com)
+- Using Portswigger-hosted app: [https://portswigger.net/web-security/authentication/other-mechanisms/lab-brute-forcing-a-stay-logged-in-cookie](https://portswigger.net/web-security/authentication/other-mechanisms/lab-brute-forcing-a-stay-logged-in-cookie)
