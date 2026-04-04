@@ -10,7 +10,7 @@ Instructions:
 
 You are provided with:
 
-- A user acount: ufsru:tgrtw
+- A user account: ufsru:tgrtw
 - Victim's username: cahfa
 - candidate-passwords.txt
 
