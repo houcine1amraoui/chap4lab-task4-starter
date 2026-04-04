@@ -4,11 +4,11 @@ You are given a web application that allows users to stay logged in even after t
 
 Instructions:
 
-1. Explore how the app's session manaegment works by using the provided user account.
-2. Complete the bf_script to brute-force the victims's cookie to gain access to his /acount page.
+1. Explore how the app's session management works by using the provided user account. Make use of the provided **base64 decoder** and the **MD5 cracker** to analyze the session cookie.
 
-   Your credentials: ufsru:tgrtw
-   Victim's username: cahfa
+2. Complete the bf_script to brute-force the victims's cookie to gain access to his /acount page.
+   - Your credentials: ufsru:tgrtw
+   - Victim's username: cahfa
 
 You can use application by:
 
