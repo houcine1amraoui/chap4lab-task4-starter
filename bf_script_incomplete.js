@@ -28,8 +28,13 @@ async function bruteForce() {
 
     const text = await response.text();
 
-    // TODO 4: detect success and print the result
-
+    // TODO 4: detect success properly
+    if (text.includes("")) {
+      console.log("SUCCESS");
+      console.log("Username:", victimUsername);
+      console.log("Password:", password);
+      // TODO 5: Optimize the search
+    }
     console.log("Attempt:", password);
   }
 }

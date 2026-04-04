@@ -24,3 +24,4 @@ Hints:
 
 - The session management is borken, the session cookie reveal sensisitve information.
 - Lack if brute force protection mechanism.
+- Attacker can generate cookies offline. No need to hit /login at all
