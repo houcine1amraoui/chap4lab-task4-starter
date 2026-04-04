@@ -10,8 +10,8 @@ Instructions:
    - Your credentials: ufsru:tgrtw
    - Victim's username: cahfa
 
-You can use application by:
+You can use application either by:
 
-- Launch the provided **app.exe**
+- Launching the provided **app.exe**
 - Using render-hosted app: [https://auth-lab9.onrender.com](https://auth-lab9.onrender.com)
 - Using Portswigger-hosted app: [https://portswigger.net/web-security/authentication/other-mechanisms/lab-brute-forcing-a-stay-logged-in-cookie](https://portswigger.net/web-security/authentication/other-mechanisms/lab-brute-forcing-a-stay-logged-in-cookie)
