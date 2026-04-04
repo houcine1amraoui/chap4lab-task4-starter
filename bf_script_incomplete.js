@@ -11,13 +11,13 @@ const candidates = fs.readFileSync(inputFilePath, "utf-8").split("\n");
 
 async function bruteForce() {
   for (const password of candidates) {
-    const md5Hash = crypto
+    const hashedPassword = crypto
       .createHash("md5")
       .update(password.trim())
       .digest("hex");
 
     // TODO 2: construct the cookie value correctly
-    const cookiee = null;
+    const cookiee = Buffer.from(``).toString("base64");
 
     const response = await fetch(targetUrl, {
       method: "GET",
