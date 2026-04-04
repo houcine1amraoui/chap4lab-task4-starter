@@ -19,3 +19,8 @@ You can use application either by:
 - Launching the provided **app.exe**
 - Using render-hosted app: [https://auth-lab9.onrender.com](https://auth-lab9.onrender.com)
 - Using Portswigger-hosted app: [https://portswigger.net/web-security/authentication/other-mechanisms/lab-brute-forcing-a-stay-logged-in-cookie](https://portswigger.net/web-security/authentication/other-mechanisms/lab-brute-forcing-a-stay-logged-in-cookie)
+
+Hints:
+
+- The session management is borken, the session cookie reveal sensisitve information.
+- Lack if brute force protection mechanism.
