@@ -1,6 +1,6 @@
 # Task 4: Brute-forcing a stay-logged-in cookie
 
-You are given a web application that allows users to stay logged in even after they close their browser session i.e., stay-loggedin option. However, the cookie used to provide this functionality is vulnerable to brute-forcing.
+The target web application allows users to stay logged in even after they close their browser session i.e., stay-loggedin option. However, the cookie used to provide this functionality is vulnerable to brute-forcing.
 
 Instructions:
 
