@@ -4,7 +4,7 @@ The target web application allows users to stay logged in even after they close 
 
 Instructions:
 
-1. Explore how the app's session management works by using the provided user account. Make use of the provided **base64 decoder** and the **MD5 cracker** to analyze the session cookie.
+1. Explore how the app's session management works by using the provided user account. Make use of the provided **base64 decoder** and the **MD5 cracker** to analyze the session cookie. stay-logged-in:dWZzcnU6Y2M0MGZiYTQxMzI2MjI0NmY0YWUyMmNmYTRmN2Y4MjI=
 
 2. Complete the brute_force_script to brute-force the victims's cookie to gain access to his /acount page.
 
@@ -14,7 +14,7 @@ You are provided with:
 - Victim's username: cahfa
 - candidate-passwords.txt
 
-stay-logged-in:dWZzcnU6Y2M0MGZiYTQxMzI2MjI0NmY0YWUyMmNmYTRmN2Y4MjI%3D
+based64(username:hash(password))
 
 You can use application either by:
 
