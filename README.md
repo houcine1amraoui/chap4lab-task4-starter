@@ -14,6 +14,8 @@ You are provided with:
 - Victim's username: cahfa
 - candidate-passwords.txt
 
+stay-logged-in:dWZzcnU6Y2M0MGZiYTQxMzI2MjI0NmY0YWUyMmNmYTRmN2Y4MjI%3D
+
 You can use application either by:
 
 - Launching the provided **app.exe**
