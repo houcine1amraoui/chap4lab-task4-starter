@@ -17,7 +17,7 @@ async function bruteForce() {
       .digest("hex");
 
     // TODO 2: construct the cookie value correctly
-    const cookiee = Buffer.from(``).toString("base64");
+    const sessionId = Buffer.from(``).toString("base64");
 
     const response = await fetch(targetUrl, {
       method: "GET",
