@@ -22,6 +22,6 @@ You can use application either by:
 
 Hints:
 
-- The session management is borken, the session cookie reveal sensisitve information.
+- The session management is borken, the session ID reveal sensisitve information.
 - Lack if brute force protection mechanism.
-- Attacker can generate cookies offline. No need to hit /login at all
+- Attacker can generate session IDs offline. No need to hit /login at all
