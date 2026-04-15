@@ -16,7 +16,7 @@ async function bruteForce() {
       .update(password.trim())
       .digest("hex");
 
-    // TODO 2: construct the cookie value correctly
+    // TODO 2: construct the session ID value correctly
     const sessionId = Buffer.from(``).toString("base64");
 
     const response = await fetch(targetUrl, {
